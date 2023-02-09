@@ -22,6 +22,7 @@ void llist_add(struct lnode  **q,  int num);
 
 //выборочная сортировка списка
 void  llist_selection_sort(void);
+//метод для сортировки и вывода отсортированного списка на экран
 void llist_sort();
 
 
