@@ -115,7 +115,7 @@ void llist_sort(){
     }
 }
 //функция сортировки выбором
-void  llist_selection_sort(void) {              //Почему-то не работало, попробовал уже все варинты, создал свой сортировщик
+void  llist_selection_sort(void) {              //Почему-то не работало, попробовал уже все варианты, создал свой сортировщик
     struct lnode *a = NULL;
     struct lnode *b = NULL;
     struct lnode *c = NULL;
